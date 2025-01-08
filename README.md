@@ -102,12 +102,6 @@ This is a responsive website built with **React.js** for the frontend, using **L
 
 ## Screenshots
 
-![Home Page](#)
-![Features Page](#)
-![Pricing Page](#)
-![Blog Page](#)
-
----
 
 diploy link : https://parot-company-5o78.vercel.app/
 
